@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\bin\Debug\net6.0\myOperatorOverloading.exe
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\bin\Debug\net6.0\myOperatorOverloading.deps.json
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\bin\Debug\net6.0\myOperatorOverloading.runtimeconfig.json
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\bin\Debug\net6.0\myOperatorOverloading.dll
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\bin\Debug\net6.0\myOperatorOverloading.pdb
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\obj\Debug\net6.0\myOperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\obj\Debug\net6.0\myOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\obj\Debug\net6.0\myOperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\obj\Debug\net6.0\myOperatorOverloading.AssemblyInfo.cs
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\obj\Debug\net6.0\myOperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\obj\Debug\net6.0\myOperatorOverloading.dll
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\obj\Debug\net6.0\refint\myOperatorOverloading.dll
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\obj\Debug\net6.0\myOperatorOverloading.pdb
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\obj\Debug\net6.0\myOperatorOverloading.genruntimeconfig.cache
+C:\Users\meesh\source\repos\myOperatorOverloading\myOperatorOverloading\obj\Debug\net6.0\ref\myOperatorOverloading.dll
